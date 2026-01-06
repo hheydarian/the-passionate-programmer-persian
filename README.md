@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/hheydarian/the-passionate-programmer-persian">
-    <img src="assets/Cover.jpg" alt="The Passionate Programmer Book Cover" width="400"/>
+    <img src="assets/images/Cover.jpg" alt="The Passionate Programmer Book Cover" width="400"/>
   </a>
 </p>
 
